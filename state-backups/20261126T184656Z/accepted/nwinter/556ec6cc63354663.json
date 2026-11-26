@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/Users/Shared/riemann-at-home/lean",
+  "build_id": "556ec6cc63354663",
+  "machine": {
+    "os": "Darwin 27.2.0",
+    "arch": "arm64",
+    "cpu": "Apple M5 Ultra",
+    "cores": 36
+  },
+  "started": "2026-11-26T17:56:34Z",
+  "recorded": "2026-11-26T18:37:06Z",
+  "busy_seconds": 2432,
+  "modules_compiled": 2874,
+  "bitmap_b64": "H4sIAAAAAAAC/+2cT2hcRRjAv3nvuXluk90xLHFthZ3GSoOo3YulxcNOay6WiutNvLTQQxBaDULpIW0zXUurHmwQDzlojdCrhyKoYCEvVKRQhHioQkPNRgqFarElpl2a5E1n3p/dfbubTbJN0Ha/HyTMvzd/v/m+ne8NDwBpDqkEjTWtuBu4rt72IsxP0ykgdFMpIP35MHkN4duB1qY9uVRhpjpEwCC7Xh8oUKtpvf4wvL4DWCvpiVWeTgulDEEQBEEQBEEQBEEQBEEQBEEQBEGQxwVBlsoJX42ycjRbk1OBV4K0/iVvPRuXLRFb85GeNFXPLGP9ppKiNCGPEf8neSa4HAiCIAiCIAiCtAP28kWa3WNnOIMI0mY4QGlrXhOWWMZLqhWKgx4ZZL3hnvHrN0BU2zcasWvCj3RHnxSeSdzqlQqFOQ2wawmLyemviU21rcdoYDkPQt+KDTHy37LlCZwDBEEQBEEQBGkbOqAky2REUf2fz3k5R2FHeNz7Re47Qgh8WKDqjClkBsDJSfmqOjfqp7pX0RzZyXo/pUbs4wPGPZmbn150g6a7YGRBRrin/oaTbbYczqKUC/LaK3L2r+pj92Bllcbla7eH7gTuJGcg5h3vx6Rc9qae426a9ENTMgcjnEPsJuXpCehM6GcP8p7wvK4vOT4DxQETxOIGyL08cR42Dx2vrotF3Vm9MLMh4jfvCTPiAN2jRA/jhwSAe8MEKO30slw1ksyM/OpnlZRlKc6YKkQTkXrtiCMjrroZt8uehZFGgzTDQLZSyZ1ZKIHzI+Qvv18eXoVJP9bTpQX9QPEt0gdw8aMvjmUpiNHJPXb+84n9H3RAxx/owYMqZxK/3ng+RLNXK4nsJ+OOUh/FQJb/keO91qnDc78nQbxgPu+t7YI0wfBCHLx7rYP+55zs4NZs0ANLQOBVVctZd/XOYmMQuQUn+Mqu5y3IXMtzs5I7uFW7iLXSRimiEFu/netqJV5nCtaOQ+vm/LNCcej3or89e+ZfOh/I0/ezU4vTR2TUkCT7TjhUKOkxGkisUQjkQnXXVvWmU5VCTiYFp4k3zXowSuAoD/2nF4j70zb7eg7u3jpu/p0/e0N+c354++FLof65VOj/7KmTT8OfQy9NvWE2H5GYi0aVNneTgYgMRq9+F/XQTC+Hv23Gqa0WUj8iSClqPCWBKp8tD3ogDJ0kzujwOdvIC7Vz0iC6anuUDTeWnpXOVFyUN88Y2U0qgscbDYcDV828WNL9HN3st/vu/cvu1JfTVzJwVzbju+S3x0CvWXk7yo7k12+y1Xx4TDwXrNHth9jLCIK0C4X9zIarhPSdmtuqFJjS8nn9+qs1ljJ8RXMVlZytjnQ2K7lj9R9lFLu35YGL9/jeE8PGO0zQMZL2lLqj9bqQM+P355WWT9Wf3hoofeaPmGgrKVh0IkT5J5Hr95JXm3GAfE3VjwQCHgDh2elSi1UAAA==",
+  "olean_digest": "8397e8255433163fec2c7510ac5306dd257b888fdd9c7b3217bd762cf80e1888",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

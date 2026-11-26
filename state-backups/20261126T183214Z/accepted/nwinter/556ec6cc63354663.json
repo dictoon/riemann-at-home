@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/Users/Shared/riemann-at-home/lean",
+  "build_id": "556ec6cc63354663",
+  "machine": {
+    "os": "Darwin 27.2.0",
+    "arch": "arm64",
+    "cpu": "Apple M5 Ultra",
+    "cores": 36
+  },
+  "started": "2026-11-26T17:56:34Z",
+  "recorded": "2026-11-26T18:26:58Z",
+  "busy_seconds": 1824,
+  "modules_compiled": 2104,
+  "bitmap_b64": "H4sIAAAAAAAC/+2cPWwURxTH3+xuuAWZ8xBZ1hEXXgdHIRTgBgSK4huQRYEi5VKkSYMlijQRoEgRSIA9MciJkJBcUFAk6NJFSpUqRYhuESVCcqoUVuAipYjyocRC2IDPN8zs7u3tnu/DB4dCuP+v2NudnZ198+bNezfvRkcE2sPqp1ZPG+bJ5r3wQ5iDNK/Sd6cKteIeIg5EL06wtVVlTwvEyGKHt1pz3Gnbrht+yODobEYSJ1anAysDAAAAAAAAAAAAAAAAAAAAALwsSNbqTu2nUS++nGi4U0fUT/nGH3k38lrHGlt63tNLtpbMsTDkAGwG/gLJwjAcAAAAAAAAgH7A7Vyl3T52DxoEoM/wifOnzZogSwpeBEQQ/KYsksn4xpvFtQaLlUFIHE/VclNpxHTE5D9lR1pGTreLQAz+W8ZfgQ4AAAAAAADoGzL0UGmOnv+xuro6Isv6fC0f3DlPB2vryjvq+BnG6OIc12tMqUaJ/LxSb+t1o3m2q40vhzzKmgXnCWtV5dfuLZ88rm48WleK0UJFt1VVEaWVVX2cHeyz4fC1Kirql/3q/p/JZffpYJRKRjE//EPFsXhhngkrFJXqmIPyqyOL4dmSytOCELTlDy5yN2kga579WAzX1utmk+NOKn9kk1y3aXKv/x2NnZtpstJvyXAy1RDm1UxOYk7aRGd3BsVVlT81WrSuzeuiCW9IeJ6uwAdSzbipRMY2LeY2N84sLDR7sb2xyF22qUz+tyRun4q7V2cxvBrebgz9RPl9tpvo1hdfXpjgJK8tHnMLV29Of5KhzF3sqUoagPituT5ku59WshOXS752H/7knCsO64LyN687858++HmQ5B77jWBsK8qOMkeCgn2tpykeckPkbRxpTNrIIJu8yPFMaUJCKTbnpSoq/9Q62cwe3Jln1PvDHjnEamm0SSjoJc8r+Rfb11RCK1HQ+P7+0vq9M6qikgy6gSWJpq1ZFk+Jm0uYrz86RJ8bG7KCu9qiuKhZ2w026Wfdcp5W/p6x/ypcf/PRFTabanlK7nAiN9jBc8jlxslVP+GdzDYbq9tz9aQwvRxzIiXFfRGRBKHwcj58wipIPZtyJLc3NsoDF6kPpt+OY8lYCo8dCTVC1EqngoTl0PjvZh7nxsI3vvX4dnXpq7sfuLRSG5bGeTbtFYraAl99Jz0dVWbw6/e8bv54TO6KxujfZ5jLAIB+wZrWzlMwtnv+wa7Ag8mC9os9Dnxlu4tGricvBtrVPNj9nzLKI/sKJORJ8e5ns9aHnuRFlgucum/8ulS/lh6vaS8/tOFB1sTpe2GPmYmS0ksrQsZfiaqhlCIdxgsNTf8vkPQEgkFyXotVAAA=",
+  "olean_digest": "32ee94a1a481812619c0f81e3b6b3a82addb29012f4131d3343f6d04f18f1f74",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

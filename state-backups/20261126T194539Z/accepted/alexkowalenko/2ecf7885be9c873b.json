@@ -1,0 +1,25 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/Users/Shared/riemann-at-home/lean",
+  "build_id": "2ecf7885be9c873b",
+  "machine": {
+    "os": "Darwin 27.2.0",
+    "arch": "arm64",
+    "cpu": "Apple M2 Pro",
+    "cores": 12
+  },
+  "started": "2026-11-26T19:34:16Z",
+  "recorded": "2026-11-26T19:44:17Z",
+  "busy_seconds": 601,
+  "modules_compiled": 496,
+  "bitmap_b64": "H4sIAAAAAAAC/+3XQWoCMRSA4eekoODQapEi7cKBbnoCt3oId930Fi5Nb+FKXPQQ3XXAE3TdhR7BXUtx+hocB+yAMlEUi/8HgQm8JDMvIZmIAAAAAAAAAAAAAAAAAAAAAAAAAAA8XQTkACezGlfFh102iYo3eL+8I9MAAAAA8N9ui/IzyO6B3bI0J51NwUF6VzQi8VUar6qDHUe+ydVrr6pv36qJzl2vJfmcqj5Wz2w64kR1oXXJXcaf5MvlpHXba8RRhUULAJlsS7TykUz7bgM1ab3rynj7fhnU/nTR3OMtHnZtGB03WzZfL3k0Lh77YtbCYxsOn6/dQ9v9OMzcWaadYr3MjPfn3a8e5kXHAHDWovSwCMbmcGP4dD1ar4TMzwmx8gu3O2eti1UAAA==",
+  "olean_digest": "310c103bcca00d90c4523ce536a7038429ca59b131ed5302e1bd0234fe637964",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "jimjones"
+}
